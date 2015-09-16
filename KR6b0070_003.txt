@@ -1,28 +1,21 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:28.524521
+#+DATE: 2015-08-30 19:36:30.624682
 #+TITLE: 法集要頌經
 #+PROPERTY: CBETA_ID T04n0213
 #+PROPERTY: ID KR6b0070
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 213
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0070_T_003-0789a> ¶¶¶¶¶
 #+PROPERTY: JUAN 3
 ¶
 ¶
-
- 《法集要頌經》卷第三¶
+《法集要頌經》卷第三¶
 尊者法救集¶
-西天中印度惹爛駄囉國密¶
-林寺三藏明教大師賜紫沙¶
-門臣天息災奉　詔譯¶
+西天中印度惹爛駄囉國密林寺三藏明教大師賜紫沙門臣臣天息災奉　詔譯¶
 
-24廣說品
-:PROPERTIES:
-:head: 《法集要頌經》廣說品第二十四
-:END:
-¶
+《法集要頌經》廣說品第二十四¶
 
 #+BEGIN_VERSE
 「　雖說百伽陀，
@@ -166,11 +159,7 @@
 #+END_VERSE
 」¶
 
-25善友品
-:PROPERTIES:
-:head: 《法集要頌經》善友品第二十五
-:END:
-¶
+《法集要頌經》善友品第二十五¶
 
 #+BEGIN_VERSE
 「　無信懷憎嫉，
@@ -293,11 +282,7 @@
 #+END_VERSE
 」¶
 
-26圓寂品
-:PROPERTIES:
-:head: 《法集要頌經》圓寂品第二十六
-:END:
-¶
+《法集要頌經》圓寂品第二十六¶
 
 #+BEGIN_VERSE
 「　如龜藏其六，
@@ -480,11 +465,7 @@
 #+END_VERSE
 」¶
 
-27觀察品
-:PROPERTIES:
-:head: 《法集要頌經》觀察品第二十七
-:END:
-¶
+《法集要頌經》觀察品第二十七¶
 
 #+BEGIN_VERSE
 「　善觀己瑕隙，
@@ -658,11 +639,7 @@
 #+END_VERSE
 」¶
 
-28罪障品
-:PROPERTIES:
-:head: 《法集要頌經》罪障品第二十八
-:END:
-¶
+《法集要頌經》罪障品第二十八¶
 
 #+BEGIN_VERSE
 「　諸惡業莫作，
@@ -840,11 +817,7 @@
 #+END_VERSE
 」¶
 
-29相應品
-:PROPERTIES:
-:head: 《法集要頌經》相應品第二十九
-:END:
-¶
+《法集要頌經》相應品第二十九¶
 
 #+BEGIN_VERSE
 「　夜光照于冥，

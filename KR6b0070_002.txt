@@ -1,28 +1,23 @@
 #-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:36:28.482120
+#+DATE: 2015-08-30 19:36:30.587145
 #+TITLE: 法集要頌經
 #+PROPERTY: CBETA_ID T04n0213
 #+PROPERTY: ID KR6b0070
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 213
 #+PROPERTY: VOL 04
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6b0070_T_002-0783a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
-
- 《法集要頌經》卷第二¶
+《法集要頌經》卷第二¶
 ¶
 尊者法救集¶
 西天中印度惹爛駄囉國密林寺¶
-三藏明教大師賜紫沙門臣¶
+三藏明教大師賜紫沙門臣臣¶
 天息災奉　詔譯¶
 
-12正道品
-:PROPERTIES:
-:head: 《法集要頌經》正道品第十二
-:END:
-¶
+《法集要頌經》正道品第十二¶
 
 #+BEGIN_VERSE
 「　正道四聖諦，
@@ -123,11 +118,7 @@
 #+END_VERSE
 」¶
 
-13利養品
-:PROPERTIES:
-:head: 《法集要頌經》利養品第十三
-:END:
-¶
+《法集要頌經》利養品第十三¶
 
 #+BEGIN_VERSE
 「　芭蕉以實死，
@@ -139,7 +130,7 @@
 　愚為此害賢，
 　首落分于地。¶
 　貪利不善性，
-　苾芻勿羨之，¶
+　苾芻勿羡之，¶
 　住處多愛戀，
 　希望他供養。¶
 　在家及出家，
@@ -214,11 +205,7 @@
 #+END_VERSE
 」¶
 
-14怨家品
-:PROPERTIES:
-:head: 《法集要頌經》怨家品第十四
-:END:
-¶
+《法集要頌經》怨家品第十四¶
 
 #+BEGIN_VERSE
 「　不怨而興怨，
@@ -285,11 +272,7 @@
 #+END_VERSE
 」¶
 
-15憶念品
-:PROPERTIES:
-:head: 《法集要頌經》憶念品第十五
-:END:
-¶
+《法集要頌經》憶念品第十五¶
 
 #+BEGIN_VERSE
 「　入息出息念，
@@ -421,11 +404,7 @@
 #+END_VERSE
 」¶
 
-16清淨品
-:PROPERTIES:
-:head: 《法集要頌經》清淨品第十六
-:END:
-¶
+《法集要頌經》清淨品第十六¶
 
 #+BEGIN_VERSE
 「　當念自覺悟，
@@ -525,11 +504,7 @@
 」
 <pb:KR6b0070_T_002-0785c>¶
 
-17水喻品
-:PROPERTIES:
-:head: 《法集要頌經》水喻品第十七
-:END:
-¶
+《法集要頌經》水喻品第十七¶
 
 #+BEGIN_VERSE
 「　淨心常憶念，
@@ -600,11 +575,7 @@
 」
 <pb:KR6b0070_T_002-0786a>¶
 
-18華喻品
-:PROPERTIES:
-:head: 《法集要頌經》華喻品第十八
-:END:
-¶
+《法集要頌經》華喻品第十八¶
 
 #+BEGIN_VERSE
 「　何人能擇地？
@@ -748,11 +719,7 @@
 #+END_VERSE
 」¶
 
-19馬喻品
-:PROPERTIES:
-:head: 《法集要頌經》馬喻品第十九
-:END:
-¶
+《法集要頌經》馬喻品第十九¶
 
 #+BEGIN_VERSE
 「　譬馬調能軟，
@@ -839,11 +806,7 @@
 #+END_VERSE
 」¶
 
-20瞋恚品
-:PROPERTIES:
-:head: 《法集要頌經》瞋恚品第二十
-:END:
-¶
+《法集要頌經》瞋恚品第二十¶
 
 #+BEGIN_VERSE
 「　除瞋去我慢，
@@ -936,11 +899,7 @@
 #+END_VERSE
 」¶
 
-21如來品
-:PROPERTIES:
-:head: 《法集要頌經》如來品第二十一
-:END:
-¶
+《法集要頌經》如來品第二十一¶
 
 #+BEGIN_VERSE
 「　自獲正覺最無等，
@@ -1044,11 +1003,7 @@
 #+END_VERSE
 」¶
 
-22多聞品
-:PROPERTIES:
-:head: 《法集要頌經》多聞品第二十二
-:END:
-¶
+《法集要頌經》多聞品第二十二¶
 
 #+BEGIN_VERSE
 「　多聞善能行，
@@ -1147,11 +1102,7 @@
 #+END_VERSE
 」¶
 
-23己身品
-:PROPERTIES:
-:head: 《法集要頌經》己身品第二十三
-:END:
-¶
+《法集要頌經》己身品第二十三¶
 
 #+BEGIN_VERSE
 「　常習善語言，
@@ -1178,7 +1129,7 @@
 　然後正他人，
 <pb:KR6b0070_T_002-0788c>¶
 　若自而正者，
-　乃謂之上士。¶
+　乃謂之上土。¶
 　先自而正己，
 　然後正他人，¶
 　若自而正者，
