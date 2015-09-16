@@ -1,4 +1,4 @@
 #-*- mode: mandoku-view; -*-
 #+TITLE: 法集要頌經
-#+DATE: 2015-08-30 19:36:28.838857
-#+PROPERTY: JUAN 1
+#+DATE: 2015-08-30 19:36:28.821949
+#+PROPERTY: JUAN 0
