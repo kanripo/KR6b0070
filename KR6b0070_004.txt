@@ -1,16 +1,13 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 7:05
+# -*- mode: mandoku-view -*-
 #+TITLE: 法集要頌經
-#+PROPERTY: CBETA_ID T04n0213
+#+DATE: 2016-08-10 10:22:14
 #+PROPERTY: ID KR6b0070
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 213
+#+PROPERTY: BASEEDITION CBETA
+#+PROPERTY: CBETA_ID T04n0213
 #+PROPERTY: VOL 04
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
-#+PROPERTY: LASTPB <pb:KR6b0070_T_004-0794a> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 4
-¶
-¶
+¶¶
+
 《法集要頌經》卷第四¶
 尊者法救集¶
 西天中印度惹爛駄囉國密林寺三藏明教大師賜紫沙門〔臣〕－【宋】【元】臣臣天息災奉　詔譯¶

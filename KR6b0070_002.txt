@@ -1,13 +1,10 @@
-# -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 7:05
+# -*- mode: mandoku-view -*-
 #+TITLE: 法集要頌經
-#+PROPERTY: CBETA_ID T04n0213
+#+DATE: 2016-08-10 10:22:14
 #+PROPERTY: ID KR6b0070
-#+PROPERTY: SOURCE Taisho Tripitaka Vol. 4, No. 213
+#+PROPERTY: BASEEDITION CBETA
+#+PROPERTY: CBETA_ID T04n0213
 #+PROPERTY: VOL 04
-#+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
-#+PROPERTY: LASTPB <pb:KR6b0070_T_002-0783a> ¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 2
 ¶
 《法集要頌經》卷第二¶
